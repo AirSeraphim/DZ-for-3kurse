@@ -1,0 +1,14 @@
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\bin\Debug\net6.0\domashka3.exe
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\bin\Debug\net6.0\domashka3.deps.json
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\bin\Debug\net6.0\domashka3.runtimeconfig.json
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\bin\Debug\net6.0\domashka3.dll
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\bin\Debug\net6.0\domashka3.pdb
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\domashka3.GeneratedMSBuildEditorConfig.editorconfig
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\domashka3.AssemblyInfoInputs.cache
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\domashka3.AssemblyInfo.cs
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\domashka3.csproj.CoreCompileInputs.cache
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\domashka3.dll
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\refint\domashka3.dll
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\domashka3.pdb
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\domashka3.genruntimeconfig.cache
+S:\Univer\3 курс\otus-sharp-4-main\Lab3\obj\Debug\net6.0\ref\domashka3.dll
