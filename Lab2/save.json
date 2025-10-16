@@ -1,0 +1,22 @@
+﻿{
+  "CreatedDate": "2025-10-16T11:37:20.7192885+07:00",
+  "SaveDate": "2025-10-16T11:42:20.7403001+07:00",
+  "FileName": "save_001.dat",
+  "CurrentLocation": "Тронный зал",
+  "u": {
+    "Level": 99,
+    "Name": "Алёша",
+    "Gender": 1,
+    "gender": "m"
+  },
+  "Items": [
+    {
+      "Name": "Меч",
+      "Quantity": 1
+    },
+    {
+      "Name": "Зелье лечения",
+      "Quantity": 5
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentLocation>Тронный зал</CurrentLocation>
+  <u level="99">
+    <Name>Алёша</Name>
+    <gender>m</gender>
+  </u>
+  <Items>
+    <Item>
+      <Name>Меч</Name>
+      <Quantity>1</Quantity>
+    </Item>
+    <Item>
+      <Name>Зелье лечения</Name>
+      <Quantity>5</Quantity>
+    </Item>
+  </Items>
+  <CreatedDate>2025-10-16T11:37:20.7192885+07:00</CreatedDate>
+  <SaveDate>2025-10-16T11:42:20.7403001+07:00</SaveDate>
+  <FileName>save_001.dat</FileName>
+</SaveFile>

@@ -1,0 +1,14 @@
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\bin\Debug\net6.0\domaska2.exe
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\bin\Debug\net6.0\domaska2.deps.json
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\bin\Debug\net6.0\domaska2.runtimeconfig.json
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\bin\Debug\net6.0\domaska2.dll
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\bin\Debug\net6.0\domaska2.pdb
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\domaska2.GeneratedMSBuildEditorConfig.editorconfig
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\domaska2.AssemblyInfoInputs.cache
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\domaska2.AssemblyInfo.cs
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\domaska2.csproj.CoreCompileInputs.cache
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\domaska2.dll
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\refint\domaska2.dll
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\domaska2.pdb
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\domaska2.genruntimeconfig.cache
+S:\Univer\3 курс\otus-sharp-4-main\Lab2\obj\Debug\net6.0\ref\domaska2.dll
